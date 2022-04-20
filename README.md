@@ -1,6 +1,8 @@
 # USTSIPIN01A
 It is intended for masurement of cosmic radiation and dosimetry by using Silicon PIN diode sensor.  
 
+> USTSIPIN01A was originally named SPACEDOS01A_PCB01A
+
 ![Top view on SPACEDOS01A_PCB01B](/doc/img/SPACEDOS01A_PCB01A.png)
 
 **The first prototype (without connection of PB0 with R12)**
