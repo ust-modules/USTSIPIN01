@@ -64,7 +64,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "L2","100uH","L_0805_2012Metric_Pad1.15x1.40mm_HandSolder",136.7785,-45.5900,180.0000,bottom
 "L3","DFE252012P-4R7M","L_0805_2012Metric_Pad1.15x1.40mm_HandSolder",61.7220,20.0660,180.0000,bottom
 "M8","BMI-S-204-F","Laird_Technologies_BMI-S-204-F_32.00x32.00mm",17.2720,25.4000,0.0000,top
-"Q1","","SOT-23",11.1760,32.2580,180.0000,bottom
+"Q1","2SK2394-6","SOT-23",11.1760,32.2580,180.0000,bottom
 "R1","10R","R_0603_1608Metric",42.3240,34.5380,90.0000,bottom
 "R2","470R","R_0603_1608Metric",14.9860,24.8225,-90.0000,bottom
 "R3","470R","R_0603_1608Metric",35.7200,20.6950,-90.0000,bottom
